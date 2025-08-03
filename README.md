@@ -1,7 +1,7 @@
 # CODECRAFT_CS_03
-# Password Complexity Checker
-
 A clean and beginner-friendly Python tool to evaluate password strength based on five essential criteria: length, uppercase, lowercase, numeric digits, and special characters. This CLI-based utility helps users understand how secure their passwords are with real-time feedback.
+
+# Password Complexity Checker
 
 ##  Features
 - Checks password complexity in real-time
